@@ -1,5 +1,5 @@
 # 💫About Me :
-Love working on innovative projects. 
+I am a enthusiatic developer who loves to work on innovative projects and build things that could get the world one step near to prosperity and happiness.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhur-jain-37a243218) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@21112002mj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17266246) 
