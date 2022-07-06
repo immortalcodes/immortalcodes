@@ -24,4 +24,4 @@ I am a enthusiatic developer who loves to work on innovative projects and build 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=immortalcodes&icon=8&color=8)](https://visitcount.itsvg.in)
+[!][](https://visitcount.itsvg.in/api?id=immortalcodes&icon=8&color=8)](https://visitcount.itsvg.in)
