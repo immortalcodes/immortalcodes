@@ -107,13 +107,13 @@ I am a enthusiatic developer who loves to work on innovative projects and build 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/madhur-jain-37a243218/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/k" target="_blank">
+<a href="https://stackoverflow.com/users/17266246/madhur-jain" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/k" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/k" target="_blank">
+<a href="https://medium.com/@@21112002mj" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -149,5 +149,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
