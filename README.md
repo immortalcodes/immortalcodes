@@ -120,8 +120,6 @@ I am a enthusiatic developer who loves to work on innovative projects and build 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=immortalcodes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
