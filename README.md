@@ -39,16 +39,16 @@ I am a enthusiatic developer who loves to work on innovative projects and build 
 ### <div align="center"></div>  
   
 
-- 🔭 I’m working in and part of  [Submitty](https://github.com/Submitty) .  
+
   
 
-- 🌱 I’m currently learning full stack development.  
+- 🌱 I’m a full stack developer.  
   
 
-- ❓ Ask me about frontend development   
+- ❓ Let's Discuss anything about Tech!
   
 
-- ⚡ Fun fact: I am a eager learner.  
+- ⚡ Fun fact: I am an eager learner.  
   
 
 <br/>  
